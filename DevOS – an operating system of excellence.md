@@ -1,6 +1,6 @@
 ---
 date: 2023-04-11, 11:18
-modified: 2023-04-14, 15:11
+modified: 2023-06-16, 15:11
 tags:
  - devos
  - operatingsystem
@@ -139,19 +139,21 @@ todo:
 ### ... Wissen verschwenderisch teilen.
 
 - Nach einer Pair-Programming-Session haben mein Gegenüber und ich mehr Wissen als vorher.
-- Ich suche mir Gleichgesinnte zu Fokusthemen im und außerhalb des Unternehmens und ... COP
-- Veranstaltungen, Vernetzung, Talks
+- Ich suche mir Gleichgesinnte zu Fokusthemen im und außerhalb des Unternehmens – zum Beispiel, aber nicht nur in Communities of Practice, Open-Source-Projekten oder Meetups. 
+- Auf Veranstaltungen bringe ich mich als Teilgeber oder Teilgeberin aktiv mit ein. Ich zeige mich selbstbewusst zu meinen Expertenthemen – schrecke auch vor Rampenlicht nicht zurück.
 
 ### ... selbstbewusste Devs by Heart sind.
 
 - Ich schreibe und ändere Code selbstbewusst und eigenverantwortlich.
-- Ich gehe keine Kompromisse ein, wenn es um Qualität in meiner Arbeit geht. Die Zeit dafür fordere ich aktiv ein.
-- Ich bin keine Immer-Nickerin und kein Ja-Sager – ich bringe meine fachkundige Meinung konstruktiv und zum Wohle von Kunde und Produkt ein, auch wenn sie kontrovers scheint.
+- Ich gehe keine Kompromisse ein, wenn es um die Qualität in meiner Arbeit geht. Die Zeit dafür fordere ich aktiv ein.
+- Ich bin keine Immer-Nickerin und kein Dauernd-Ja-Sager – ich bringe meine fachkundige Meinung konstruktiv und zum Wohle von Kunde und Produkt ein, auch wenn sie kontrovers scheint.
 
 ### ... ein Growth Mindset haben, das unseren hohen Wirkungsgrad auch in Zukunft sicherstellt.
+
+
 
 ### ... fit sind in modernen und zukunftsorientierten Technologien.
 
 - Heute arbeite ich mit Spring und Angular. Morgen – who knows?
 - Weiterentwicklung sowie offene Augen und Ohren für Trends sind für mich selbstverständlich.
-- KI?
+- KI? Kann ich ... mich gerne reinarbeiten!
